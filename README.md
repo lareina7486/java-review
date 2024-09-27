@@ -1,4 +1,4 @@
-# java-review
+# Java-review
 
 Jave-review/
 ├── README.md
@@ -11,7 +11,7 @@
     └── Python_notes.md
 
 
-# Study Repository
+## Study Repository
 This repository contains my JAVA practice and review.
 
 ## Structure
