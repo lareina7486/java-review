@@ -1,15 +1,16 @@
 # Java-review
 
-Jave-review/
+```
+Java-review/
 ├── README.md
 ├── Java/
 │   ├── BasicSyntax/
 │   ├── DataStructures/
 │   └── Algorithms/
 └── Notes/
-    ├── Java_notes.md
-    └── Python_notes.md
-
+├── Java_notes.md
+└── Python_notes.md
+```
 
 ## Study Repository
 This repository contains my JAVA practice and review.
